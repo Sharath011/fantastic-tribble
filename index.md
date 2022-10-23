@@ -11,3 +11,7 @@
 <h1 style="colour:red;"> arghhhh </h1>
 </body
 </html>
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
